@@ -2,7 +2,7 @@ module.exports = {
   title: `Young Blog`,
   description: `Blog posted about ...`,
   author: `YimJiYoung`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `존중하며 버티자`,
   siteUrl: `https://jiyoung-blog.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
