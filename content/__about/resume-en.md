@@ -12,6 +12,8 @@ lang: 'en'
 
 ### [VIBE 사용자 이벤트 수집기](https://github.com/boostcamp-2020/Project01-B-User-Event-Collector)
 
+![mini vibe](https://imgur.com/VJiOi6W.png)
+
 1. 프로젝트 기간: 2020.11 - 2020.12 (5주간)
 2. 내용: 뮤직 웹앱 Naver VIBE를 클론하고, 프로덕트의 사용성 향상, 이용자 행동 패턴 분석을 위한 사용자 이벤트를 수집하는 프로젝트
 3. 본인 역할:
@@ -31,7 +33,9 @@ lang: 'en'
    - 사용자 이벤트에 대한 이해
    - 새로운 기술(Next.js, TypeScript, Redux 등) 빠르게 습득 후 적용
 
-### [Issue Tracker](https://github.com/boostcamp-2020/IssueTracker-22)
+### [Issue Tracker](https://github.com/YimJiYoung/IssueTracker-22)
+
+![issue tracker](https://i.imgur.com/C8b5Db4.png)
 
 1. 프로젝트 기간: 2020.10 - 2020.11 (3주간)
 
