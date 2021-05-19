@@ -70,7 +70,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-gtag`,
       options: {
-        measurementID: metaConfig.ga,
+        trackingId: metaConfig.ga,
         head: true,
         anonymize: true,
       },
