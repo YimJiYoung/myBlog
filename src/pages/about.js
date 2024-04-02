@@ -2,14 +2,15 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 import { rhythm } from '../utils/typography'
-import * as Lang from '../constants'
 
 export default ({ data }) => {
   const resumes = data.allMarkdownRemark.edges
 
   const resume = resumes
-    .filter(({ node }) => node.frontmatter.lang === Lang.ENGLISH)
     .map(({ node }) => node)[0]
+
+
+    console.log(resumes);
 
   return (
     <div
